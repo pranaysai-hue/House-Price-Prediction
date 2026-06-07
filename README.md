@@ -66,7 +66,7 @@ Add your output screenshot here.
 
 ## 👨‍💻 Author
 
-Pranay Patel
+Pranay sai
 
 ## 🔗 Internship Task
 
